@@ -1,0 +1,27 @@
+﻿Build started 13.11.2019 18:59:50.
+     1>Project "C:\БГТУ\1 курс\Лабораторные работы\Основы Алгоритмизации и Программирования\8 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ConsoleApplication1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplication1.cpp
+         ConsoleApplication1.cpp
+     1>c:\бгту\1 курс\лабораторные работы\основы алгоритмизации и программирования\8 лабораторная работа\consoleapplication1\consoleapplication1\consoleapplication1.cpp(143): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\бгту\1 курс\лабораторные работы\основы алгоритмизации и программирования\8 лабораторная работа\consoleapplication1\consoleapplication1\consoleapplication1.cpp(151): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\бгту\1 курс\лабораторные работы\основы алгоритмизации и программирования\8 лабораторная работа\consoleapplication1\consoleapplication1\consoleapplication1.cpp(154): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\бгту\1 курс\лабораторные работы\основы алгоритмизации и программирования\8 лабораторная работа\consoleapplication1\consoleapplication1\consoleapplication1.cpp(143): warning C4101: 'h' : unreferenced local variable
+     1>c:\бгту\1 курс\лабораторные работы\основы алгоритмизации и программирования\8 лабораторная работа\consoleapplication1\consoleapplication1\consoleapplication1.cpp(143): warning C4101: 'z' : unreferenced local variable
+     1>c:\бгту\1 курс\лабораторные работы\основы алгоритмизации и программирования\8 лабораторная работа\consoleapplication1\consoleapplication1\consoleapplication1.cpp(226): error C2556: 'void main(void)' : overloaded function differs only by return type from 'int main(void)'
+                 c:\бгту\1 курс\лабораторные работы\основы алгоритмизации и программирования\8 лабораторная работа\consoleapplication1\consoleapplication1\consoleapplication1.cpp(140) : see declaration of 'main'
+     1>c:\бгту\1 курс\лабораторные работы\основы алгоритмизации и программирования\8 лабораторная работа\consoleapplication1\consoleapplication1\consoleapplication1.cpp(226): error C2371: 'main' : redefinition; different basic types
+                 c:\бгту\1 курс\лабораторные работы\основы алгоритмизации и программирования\8 лабораторная работа\consoleapplication1\consoleapplication1\consoleapplication1.cpp(140) : see declaration of 'main'
+     1>c:\бгту\1 курс\лабораторные работы\основы алгоритмизации и программирования\8 лабораторная работа\consoleapplication1\consoleapplication1\consoleapplication1.cpp(228): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\бгту\1 курс\лабораторные работы\основы алгоритмизации и программирования\8 лабораторная работа\consoleapplication1\consoleapplication1\consoleapplication1.cpp(236): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\бгту\1 курс\лабораторные работы\основы алгоритмизации и программирования\8 лабораторная работа\consoleapplication1\consoleapplication1\consoleapplication1.cpp(239): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\бгту\1 курс\лабораторные работы\основы алгоритмизации и программирования\8 лабораторная работа\consoleapplication1\consoleapplication1\consoleapplication1.cpp(311): error C2556: 'void main(void)' : overloaded function differs only by return type from 'int main(void)'
+                 c:\бгту\1 курс\лабораторные работы\основы алгоритмизации и программирования\8 лабораторная работа\consoleapplication1\consoleapplication1\consoleapplication1.cpp(140) : see declaration of 'main'
+     1>c:\бгту\1 курс\лабораторные работы\основы алгоритмизации и программирования\8 лабораторная работа\consoleapplication1\consoleapplication1\consoleapplication1.cpp(313): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\бгту\1 курс\лабораторные работы\основы алгоритмизации и программирования\8 лабораторная работа\consoleapplication1\consoleapplication1\consoleapplication1.cpp(321): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\бгту\1 курс\лабораторные работы\основы алгоритмизации и программирования\8 лабораторная работа\consoleapplication1\consoleapplication1\consoleapplication1.cpp(324): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Done Building Project "C:\БГТУ\1 курс\Лабораторные работы\Основы Алгоритмизации и Программирования\8 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" (ClCompile target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.81

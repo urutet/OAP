@@ -1,0 +1,6 @@
+Origin
+Fraps
+Enters
+East
+A string
+a string

@@ -1,0 +1,32 @@
+﻿  ConsoleApplication1.cpp
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(25,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "float"
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(58,67): warning C4305: инициализация: усечение из "double" в "float"
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(61,6): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(58,38): warning C4101: z: неиспользованная локальная переменная
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(58,69): warning C4101: x1: неиспользованная локальная переменная
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(58,31): warning C4101: func1: неиспользованная локальная переменная
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(58,25): warning C4101: func: неиспользованная локальная переменная
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(74,67): warning C4305: инициализация: усечение из "double" в "float"
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(79,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(88,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(74,69): warning C4101: x1: неиспользованная локальная переменная
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(74,31): warning C4101: func1: неиспользованная локальная переменная
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(74,25): warning C4101: func: неиспользованная локальная переменная
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(94,67): warning C4305: инициализация: усечение из "double" в "float"
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(102,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(104,8): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(107,8): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(94,38): warning C4101: z: неиспользованная локальная переменная
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(94,69): warning C4101: x1: неиспользованная локальная переменная
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(94,31): warning C4101: func1: неиспользованная локальная переменная
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(94,25): warning C4101: func: неиспользованная локальная переменная
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(94,8): warning C4101: h: неиспользованная локальная переменная
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(115,67): warning C4305: инициализация: усечение из "double" в "float"
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(123,8): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(126,8): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(115,38): warning C4101: z: неиспользованная локальная переменная
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(115,31): warning C4101: func1: неиспользованная локальная переменная
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(115,25): warning C4101: func: неиспользованная локальная переменная
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(115,8): warning C4101: h: неиспользованная локальная переменная
+C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(138,20): warning C4101: minword: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> C:\BELSTU\Основы Алгоритмизации и Программирования\15 Лабораторная Работа\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

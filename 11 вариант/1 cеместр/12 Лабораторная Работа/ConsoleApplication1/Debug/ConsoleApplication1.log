@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ConsoleApplication1.cpp
+C:\BELSTU\Основы Алгоритмизации и Программирования\12 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\BELSTU\Основы Алгоритмизации и Программирования\12 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(14,16): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication1.vcxproj -> C:\BELSTU\Основы Алгоритмизации и Программирования\12 Лабораторная Работа\ConsoleApplication1\Debug\11-1.exe

@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\BELSTU\Основы Алгоритмизации и Программирования\14 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(32,7): warning C4101: pc: неиспользованная локальная переменная
+C:\BELSTU\Основы Алгоритмизации и Программирования\14 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(69,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\BELSTU\Основы Алгоритмизации и Программирования\14 Лабораторная Работа\ConsoleApplication1\ConsoleApplication1.cpp(65,12): warning C4101: n: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> C:\BELSTU\Основы Алгоритмизации и Программирования\14 Лабораторная Работа\ConsoleApplication1\Debug\ConsoleApplication1.exe

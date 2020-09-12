@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dop 8.1", "Dop 8.1.vcxproj", "{F13112A8-32ED-4306-8050-EA1A5D1A9605}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F13112A8-32ED-4306-8050-EA1A5D1A9605}.Debug|x64.ActiveCfg = Debug|x64
+		{F13112A8-32ED-4306-8050-EA1A5D1A9605}.Debug|x64.Build.0 = Debug|x64
+		{F13112A8-32ED-4306-8050-EA1A5D1A9605}.Debug|x86.ActiveCfg = Debug|Win32
+		{F13112A8-32ED-4306-8050-EA1A5D1A9605}.Debug|x86.Build.0 = Debug|Win32
+		{F13112A8-32ED-4306-8050-EA1A5D1A9605}.Release|x64.ActiveCfg = Release|x64
+		{F13112A8-32ED-4306-8050-EA1A5D1A9605}.Release|x64.Build.0 = Release|x64
+		{F13112A8-32ED-4306-8050-EA1A5D1A9605}.Release|x86.ActiveCfg = Release|Win32
+		{F13112A8-32ED-4306-8050-EA1A5D1A9605}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {007FF83E-BA9A-42C5-9E81-818C7BD0517E}
+	EndGlobalSection
+EndGlobal

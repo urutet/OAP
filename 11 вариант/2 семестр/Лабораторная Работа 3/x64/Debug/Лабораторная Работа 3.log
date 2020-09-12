@@ -1,0 +1,13 @@
+﻿  Лабораторная Работа 3.cpp
+C:\BELSTU\Основы Алгоритмизации и Программирования\2 семестр\Лабораторная Работа 3\Лабораторная Работа 3.cpp(80,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\BELSTU\Основы Алгоритмизации и Программирования\2 семестр\Лабораторная Работа 3\Лабораторная Работа 3.cpp(97,7): warning C4101: 'minWord': unreferenced local variable
+C:\BELSTU\Основы Алгоритмизации и Программирования\2 семестр\Лабораторная Работа 3\Лабораторная Работа 3.cpp(97,20): warning C4101: 'maxWord': unreferenced local variable
+C:\BELSTU\Основы Алгоритмизации и Программирования\2 семестр\Лабораторная Работа 3\Лабораторная Работа 3.cpp(187,7): warning C4101: 'minWord': unreferenced local variable
+C:\BELSTU\Основы Алгоритмизации и Программирования\2 семестр\Лабораторная Работа 3\Лабораторная Работа 3.cpp(230,7): warning C4101: 'maxWord': unreferenced local variable
+C:\BELSTU\Основы Алгоритмизации и Программирования\2 семестр\Лабораторная Работа 3\Лабораторная Работа 3.cpp(278,7): warning C4101: 'minWord': unreferenced local variable
+C:\BELSTU\Основы Алгоритмизации и Программирования\2 семестр\Лабораторная Работа 3\Лабораторная Работа 3.cpp(319,7): warning C4101: 'maxWord': unreferenced local variable
+C:\BELSTU\Основы Алгоритмизации и Программирования\2 семестр\Лабораторная Работа 3\Лабораторная Работа 3.cpp(381,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\BELSTU\Основы Алгоритмизации и Программирования\2 семестр\Лабораторная Работа 3\Лабораторная Работа 3.cpp(403,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\BELSTU\Основы Алгоритмизации и Программирования\2 семестр\Лабораторная Работа 3\Лабораторная Работа 3.cpp(428,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\BELSTU\Основы Алгоритмизации и Программирования\2 семестр\Лабораторная Работа 3\Лабораторная Работа 3.cpp(420,7): warning C4101: 'str': unreferenced local variable
+  Лабораторная Работа 3.vcxproj -> C:\BELSTU\Основы Алгоритмизации и Программирования\2 семестр\Лабораторная Работа 3\x64\Debug\Лабораторная Работа 3.exe
